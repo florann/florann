@@ -57,7 +57,7 @@ From **video game development** to **web technologies (front-end & back-end)**, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
-## 🔥 Total Commits  
+## 🔥 Activity
 🔥 Number of commits this year : **<!-- COMMIT_COUNT_START -->63<!-- COMMIT_COUNT_END -->**
 
 <div align="center">
