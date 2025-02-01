@@ -17,8 +17,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
         run: |
-          chmod +x scripts/commit-counter.sh
-          ./scripts/commit-counter.sh
+          chmod +x scripts/commits-counter.sh
+          ./scripts/commits-counter.sh
 
       - name: Commit and Push
         run: |
