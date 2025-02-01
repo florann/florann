@@ -19,4 +19,4 @@ TOTAL_COMMITS=$(echo "$RESPONSE" | jq '.total_count')
 # Debugging Output
 echo "Total Commits Found: $TOTAL_COMMITS"
 # Update README
-sed -i "s|<!-- COMMIT_COUNT_START -->.*<!-- COMMIT_COUNT_END -->|<!-- COMMIT_COUNT_START -->🔥 Total Commits since $START_DATE: **$TOTAL_COMMITS** <!-- COMMIT_COUNT_END -->|" README.md
+sed -i "s|<!-- COMMIT_COUNT_START -->.*<!-- COMMIT_COUNT_END -->|<!-- COMMIT_COUNT_START -->🔥 Total Commits since $START_DATE: \*\*$TOTAL_COMMITS\*\* <!-- COMMIT_COUNT_END -->|" README.md
