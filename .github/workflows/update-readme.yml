@@ -23,12 +23,12 @@ jobs:
           ./scripts/commits-counter.sh
 
       - name: Commit and Push
-      env:
-        GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git remote set-url origin https://x-access-token:${{ secrets.README_TOKEN }}@github.com/florann/florann.git
-        git add README.md
-        git commit -m "Update commit count in README"
-        git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.README_TOKEN }}@github.com/florann/florann.git
+          git add README.md
+          git commit -m "Update commit count in README"
+          git push origin main
