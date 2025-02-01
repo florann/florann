@@ -15,3 +15,5 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 - [x] Path finding algorithm from scratch :snake:
 - [ ] Disk management software using Tauri ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5) :hourglass:
 
+## 🔥 Total Commits  
+<!-- COMMIT_COUNT -->
