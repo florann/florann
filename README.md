@@ -16,4 +16,4 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 - [ ] Disk management software using Tauri ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5) :hourglass:
 
 ## 🔥 Total Commits  
-🔥 Total Commits since 2025-01-01: **null**
+<!-- COMMIT_COUNT -->
