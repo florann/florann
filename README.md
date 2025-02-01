@@ -59,7 +59,8 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 
 ## 🔥 Activity
 🔥 Number of commits this year : **<!-- COMMIT_COUNT_START -->63<!-- COMMIT_COUNT_END -->**
-
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=florann&theme=dark" alt="GitHub Streak" /></a>
+
+  ![GitHub Stats](https://streak-stats.demolab.com?user=florann&theme=dark&hide_border=true)
+
 </div>
