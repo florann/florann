@@ -1,20 +1,17 @@
 ## Reclaimers :wave: ![emoji](https://github.com/user-attachments/assets/b2ee7459-3f2d-4b5d-9fae-c4ce49aa5ad4) 
 
-**``**
+**`Developer (French problems solver)` :sunglasses:**
 
-<!--
-**florann/florann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **French software developer** passionate about **computer science and technology**.  
+From **video game development** to **web technologies (front-end & back-end)**, **algorithm optimization**, and **game engine architecture**, I love exploring diverse fields and solving complex problems.  
 
-Here are some ideas to get you started:
+💼 **5+ years of experience** in various **French companies**  
+🎓 **Bachelor’s Degree in Application Design & Development** (*U.S. equivalent: Bachelor's in Software Engineering*)  
+🚀 Always learning, building, and optimizing!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Personal challenges : 
 
+- [x] Path finding algorithm from scratch :snake:
+- [ ] Disk management software using Tauri ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5) :hourglass:
 
