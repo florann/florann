@@ -19,7 +19,7 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 ### :alembic: Personal challenges : 
 
 - [x] Path finding algorithm from scratch :snake:
-- [ ] Disk management software using Tauri ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5) :hourglass:
+- [x] Disk management software using Tauri ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5) 
 
 ### :hammer_and_pick: Tools & Techs : 
 
