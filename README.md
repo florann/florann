@@ -59,7 +59,7 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 </div>
 
 ## 🔥 Activity
-🔥 Number of commits this year : **<!-- COMMIT_COUNT_START -->103<!-- COMMIT_COUNT_END -->**
+🔥 Number of commits this year : **<!-- COMMIT_COUNT_START -->105<!-- COMMIT_COUNT_END -->**
 <div align="center">
 
   ![GitHub Stats](https://streak-stats.demolab.com?user=florann&theme=dark&hide_border=true)
