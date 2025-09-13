@@ -19,8 +19,8 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 ### :alembic: Personal challenges : 
 
 - [x] Path finding algorithm from scratch :snake:
-- [x] Disk management software using Tauri ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5)
-- [ ] Custom game engine :hourglass:
+- [x] Disk management software using Tauri (pratial) ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5)
+- [ ] Prototype Rust HTTP Server Sandbox :hourglass:
 
 ### :hammer_and_pick: Tools & Techs : 
 
