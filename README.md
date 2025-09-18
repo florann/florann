@@ -20,7 +20,7 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 
 - [x] Path finding algorithm from scratch :snake:
 - [x] Disk management software using Tauri (pratial) ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5)
-- [ ] Prototype Rust HTTP Server Sandbox :hourglass:
+- [ ] Prototype Rust Web Server Sandbox :hourglass:
 
 ### :hammer_and_pick: Tools & Techs : 
 
