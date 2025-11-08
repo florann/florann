@@ -19,7 +19,7 @@ From **video game development** to **web technologies (front-end & back-end)**, 
 ### :alembic: Personal challenges : 
 
 - [x] Path finding algorithm from scratch :snake:
-- [x] Disk management software using Tauri (pratial) ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5)
+- [x] Disk management software using Tauri (not finished) ![tauri](https://github.com/user-attachments/assets/0b67b202-f998-46eb-90bc-b708bc7cbbc5)
 - [x] Prototype Rust Web Server Sandbox :floppy_disk:
 - [ ] Solana / Anchor experiments :hourglass:
 
